@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lamour-en-cage/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for L'amour En Cage](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lamour-en-cage/) |
+| **Get License** | [Official Music Licensing for L'amour En Cage](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lamour-en-cage/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `86e57ee82f304e9eb74dd26811abef500bb1ca822e100560e4286e4d172e8761` |
 | **Timestamp** | June 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
