@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans la pénombre du club, ton regard est un mirage
+> Je suis captif de ton corps, je veux cette belle cage
+> L'amour en cage, chérie, t'as jeté la clé
+> Viens plus près de moi, laisse la nuit nous emporter
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
